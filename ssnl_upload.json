@@ -1,0 +1,386 @@
+{
+    "user": {
+        "username": "bitabjln",
+        "loginSessionId": "bitabjln-0fe0eda5-a416-4015-a793-40352bda7b17-1667015036559",
+        "installation": {
+            "app": {
+                "installationId": "0fe0eda5-a416-4015-a793-40352bda7b17",
+                "jsVersion": "js.3.5.27.1",
+                "nativeVersion": "1.1.3",
+                "nativeBuild": "33"
+            },
+            "device": {
+                "brand": "Apple",
+                "manufacturer": "Apple",
+                "modelName": "iPhone 13 Pro Max",
+                "modelId": "iPhone14,3",
+                "designName": null,
+                "productName": null,
+                "osName": "iOS",
+                "osVersion": "16.2"
+            }
+        }
+    },
+    "unuploadedPings": [
+        {
+            "id": "sleepModalStream2",
+            "notificationTime": "2022-11-02T17:16:44.000Z",
+            "startTime": "2022-11-02T17:25:18.807Z",
+            "endTime": "2022-11-02T17:28:23.733Z",
+            "tzOffset": 420,
+            "streamName": "sleepModalStream"
+        }
+    ],
+    "unuploadedAnswers": [
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "sleepQuality",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": "Average"
+            },
+            "date": "2022-11-02T17:26:18.004Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "sleepHours",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": "7 hours"
+            },
+            "date": "2022-11-02T17:26:21.819Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "affHappy",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": 76
+            },
+            "date": "2022-11-02T17:26:30.453Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "affSad",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": 17
+            },
+            "date": "2022-11-02T17:26:32.470Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "affAngry",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": 7
+            },
+            "date": "2022-11-02T17:26:34.253Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "wbStress",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": 9
+            },
+            "date": "2022-11-02T17:26:37.670Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "wbLonely",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": 11
+            },
+            "date": "2022-11-02T17:26:42.987Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "wbOptimistic",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": 88
+            },
+            "date": "2022-11-02T17:26:44.387Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "wbAnxious",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": 18
+            },
+            "date": "2022-11-02T17:26:50.987Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "wbDepressed",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": 4
+            },
+            "date": "2022-11-02T17:26:55.805Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "wbEngaged",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": 90
+            },
+            "date": "2022-11-02T17:27:02.821Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "activity",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": "Studying"
+            },
+            "date": "2022-11-02T17:27:04.338Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "location",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": "My home / dormitory"
+            },
+            "date": "2022-11-02T17:27:15.472Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "socialMediaActive",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": "No time at all"
+            },
+            "date": "2022-11-02T17:27:21.789Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "socialMediaPassive",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": "No time at all"
+            },
+            "date": "2022-11-02T17:27:23.990Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "socMediaFeelConnected",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": 2
+            },
+            "date": "2022-11-02T17:27:27.406Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "socMediaFriendship",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": 2
+            },
+            "date": "2022-11-02T17:27:30.023Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "socMediaProfessional",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": 2
+            },
+            "date": "2022-11-02T17:27:32.090Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "socMediaJobsCareers",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": 2
+            },
+            "date": "2022-11-02T17:27:33.639Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "socMediaLifestyles",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": 2
+            },
+            "date": "2022-11-02T17:27:38.057Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "socMediaValues",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": 2
+            },
+            "date": "2022-11-02T17:27:39.723Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "socMediaPlatforms",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": [
+                    [
+                        "Facebook",
+                        false
+                    ],
+                    [
+                        "Instagram",
+                        false
+                    ],
+                    [
+                        "LinkedIn",
+                        false
+                    ],
+                    [
+                        "Pinterest",
+                        false
+                    ],
+                    [
+                        "Reddit",
+                        false
+                    ],
+                    [
+                        "Snapchat",
+                        false
+                    ],
+                    [
+                        "TikTok",
+                        false
+                    ],
+                    [
+                        "Twitter",
+                        false
+                    ],
+                    [
+                        "WhatsApp",
+                        false
+                    ],
+                    [
+                        "YouTube",
+                        false
+                    ],
+                    [
+                        "Other",
+                        false
+                    ],
+                    [
+                        "Not applicable, I did not use social media",
+                        true
+                    ]
+                ]
+            },
+            "date": "2022-11-02T17:27:43.931Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "socialRiskTaking",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": [
+                    [
+                        "Open up to other students when you were struggling",
+                        false
+                    ],
+                    [
+                        "Share bad news with friends",
+                        false
+                    ],
+                    [
+                        "Go to a social gathering where you did not know anybody",
+                        false
+                    ],
+                    [
+                        "Initiate a conversation with another student that you didn't already know",
+                        false
+                    ],
+                    [
+                        "Defend an unpopular opinion that you believed in",
+                        false
+                    ],
+                    [
+                        "None of the above",
+                        true
+                    ]
+                ]
+            },
+            "date": "2022-11-02T17:27:49.428Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "SU_Nom",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": [
+                    "Jerry Tang"
+                ]
+            },
+            "date": "2022-11-02T17:27:56.678Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "SU_Digital_Nom",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": [
+                    "Jerry Tang"
+                ]
+            },
+            "date": "2022-11-02T17:28:05.877Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "SU_Most_Meaningful",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": [
+                    "Jerry Tang"
+                ]
+            },
+            "date": "2022-11-02T17:28:11.561Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "SU1_Rel",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": "Friend"
+            },
+            "date": "2022-11-02T17:28:14.713Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "SU1_platform",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": "Direct messaging"
+            },
+            "date": "2022-11-02T17:28:18.913Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "SU1_emp",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": "Somewhat"
+            },
+            "date": "2022-11-02T17:28:21.948Z"
+        },
+        {
+            "pingId": "sleepModalStream2",
+            "questionId": "SU1_sourceEmp",
+            "preferNotToAnswer": null,
+            "data": {
+                "value": "Somewhat"
+            },
+            "date": "2022-11-02T17:28:23.279Z"
+        }
+    ]
+}
