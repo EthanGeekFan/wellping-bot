@@ -139,4 +139,10 @@ def datetime_to_timeslot(datetime):
 # print(get_dashboard())
 # print(upload_file(generate_response()))
 # print(json.load(open('upload_response.json')))
-print(generate_response())
+if __name__ == "__main__":
+    res = generate_response()
+    if res is not None:
+        print(upload_file(res))
+        print("Response uploaded")
+    else:
+        print("No response generated")
