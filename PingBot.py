@@ -13,9 +13,11 @@ upload = '/ssnl_upload?password={password}&device_id={device_id}&username={usern
 
 # Set the user credentials
 username = 'bitabjln'
+# password = 'fZzpCl0vjxoH3hkGedJX_hDKyqXmMTSbowJSjKZ5BwY='
+# device_id = 'bitabjln-0fe0eda5-a416-4015-a793-40352bda7b17-1667015036559'
 password = 'fZzpCl0vjxoH3hkGedJX_hDKyqXmMTSbowJSjKZ5BwY='
-device_id = 'bitabjln-0fe0eda5-a416-4015-a793-40352bda7b17-1667015036559'
-toffset = '420'
+device_id = 'bitabjln-2c8a9328-0e6e-434a-a4ca-2c87287beaad-1668538701329'
+toffset = '480'
 
 
 def timestamp():
